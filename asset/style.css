@@ -10,10 +10,14 @@ body {
    font-size: 18px !important;
 }
 
-.produk {
-   background-color: #fff !important;
-}
+
 
 .footer-bawah {
    background-color: #0079c2 !important;
+}
+
+@media (min-width: 700px) {
+   .berita {
+      height: 800px;
+   }
 }
